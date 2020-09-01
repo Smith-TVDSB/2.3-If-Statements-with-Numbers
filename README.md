@@ -6,7 +6,7 @@
 2. Has the user enter their percentage grade
 3. Outputs the letter grade that they got
 
-The following ranges can be found here:
+The following ranges can be found here:  
 90 to 100     A+  
 85 to 89      A  
 80 to 84      A-  
